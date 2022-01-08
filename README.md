@@ -10,7 +10,7 @@ Fictional website for practicing CSS and JavaScript.
 # technologies used
 + HTML
 + CSS.
-+ JavaScript
++ JavaScript.
 # Start Dev Environment for VSCode
 + Open project folder in VSCode
 + Install Live Server extension
