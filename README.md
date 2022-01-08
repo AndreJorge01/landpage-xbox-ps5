@@ -8,7 +8,7 @@ Fictional website for practicing CSS and JavaScript.
 
 
 # technologies used
-+ HTML
++ HTML.
 + CSS.
 + JavaScript.
 # Start Dev Environment for VSCode
