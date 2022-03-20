@@ -1,4 +1,4 @@
-# landpage-xbox-ps5
+# landpage-xbox-ps5.
 
 https://user-images.githubusercontent.com/86026272/148311201-d251ae1b-91c9-4482-86bf-4f8d65c5e73d.mp4
 
