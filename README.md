@@ -7,7 +7,7 @@ Fictional website for practicing CSS and JavaScript.
 
 
 
-# technologies used
+# technologies used.
 + HTML.
 + CSS.
 + JavaScript.
